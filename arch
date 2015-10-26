@@ -1,0 +1,5 @@
+#!/bin/bash
+
+tar cvf archive_sauvegarde.tar.gz ~/Bureau ~/.mozilla
+
+
